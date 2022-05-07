@@ -1,7 +1,7 @@
 ## Application Details
 |               |
 | ------------- |
-|**Generation Date and Time**<br>Tue Mar 02 2023 02:23:16 GMT+0800 (Singapore Standard Time)|
+|**Generation Date and Time**<br>Tue Mar 02 1000 02:23:16 GMT+0800 (Singapore Standard Time)|
 |**App Generator**<br>@sap/generator-fiori|
 |**App Generator Version**<br>1.1.3|
 |**Generation Platform**<br>Visual Studio Code|
